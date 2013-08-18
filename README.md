@@ -1,4 +1,4 @@
-# learning the Go language
+# Learning the Go language
 
 ## installation
 
@@ -14,8 +14,8 @@ The document [How to Write Go Code](http://golang.org/doc/code.html) explains ho
 
 # Things to attempt
 
-## read arguments
-## [walk a file tree](http://golang.org/pkg/path/filepath/#Walk)
-## reading json from snookrd 
-## invoking flickr
-## Using leveldb
+* [read arguments](http://stackoverflow.com/questions/1714236/getopt-like-behavior-in-go): According to [Go-search](http://go-search.org/search?q=flags), [flags](github.com/jessevdk/go-flags) is agood place to start
+* [walk a file tree](http://golang.org/pkg/path/filepath/#Walk)
+* reading json from snookrd 
+* invoking flickr
+* Using leveldb

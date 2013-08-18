@@ -14,6 +14,8 @@ The document [How to Write Go Code](http://golang.org/doc/code.html) explains ho
 
 # Things to attempt
 
+## read arguments
+## [walk a file tree](http://golang.org/pkg/path/filepath/#Walk)
 ## reading json from snookrd 
 ## invoking flickr
 ## Using leveldb

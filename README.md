@@ -14,6 +14,7 @@ The document [How to Write Go Code](http://golang.org/doc/code.html) explains ho
 
 # Things to attempt
 
+* [zoneplate](http://blogs.mathworks.com/steve/2011/07/19/jahne-test-pattern-take-3/) in [tour of Go slices exercise](http://tour.golang.org/#35)
 * [read arguments](http://stackoverflow.com/questions/1714236/getopt-like-behavior-in-go): According to [Go-search](http://go-search.org/search?q=flags), [flags](github.com/jessevdk/go-flags) is agood place to start
 * [walk a file tree](http://golang.org/pkg/path/filepath/#Walk)
 * reading json from snookrd 
